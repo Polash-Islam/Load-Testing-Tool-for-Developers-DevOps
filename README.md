@@ -51,4 +51,4 @@ npm run dev
 
 ## License
 
-[MIT](./LICENSE) © Sarfaraz Muhammad Sajib
+[MIT](./LICENSE) © Md Polash Islam
