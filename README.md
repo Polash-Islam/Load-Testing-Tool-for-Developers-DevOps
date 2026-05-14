@@ -43,7 +43,7 @@
 
 ### Using npm  
 ```sh
-git clone https://github.com/Muhammad-Sarfaraz/Cry.git
+git clone https://github.com/Polash-Islam/Load-Testing-Tool-for-Developers-DevOps.git
 cd Cry
 npm install
 npm run dev
